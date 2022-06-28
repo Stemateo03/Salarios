@@ -19,6 +19,10 @@
   <property name="windowTitle">
    <string>Salarios</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>Recursos/salarios.png</normaloff>Recursos/salarios.png</iconset>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QHBoxLayout" name="horizontalLayout_2">
     <item>
